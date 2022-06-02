@@ -156,6 +156,39 @@ If using Redis for database object caching, using a unique Redis cache key salt 
 
 Memcached is a memory object caching solution commonly used to provide database object caching for WordPress. One of the most important configuration concerns for memcached is preventing memcached from being accessed by the public internet. Putting memcached servers behind a firewall is one of the most important parts of using memcached securely for WordPress database object caching.
 
+### Firewall
+
+Securing all ways to access servers WordPress is hosted on is also very important. This can be done by using a firewall. A firewall is an application that adds a 'wall' between the network and the server. You can use it to either block all traffic except some or accept all traffic and block some. The first approach is better as you need to explicitly allow traffic thats needed. THis way no other traffic will be accepted to go through your firewall. This is called the 'principle of least privilege'.
+
+#### Software firewall
+
+A commonly used firewall on servers running Linux is iptables. This tutorial will not cover further details about configuring iptables.
+
+#### Web application firewall
+
+There are several WordPress plugins or hosted services available that locks out visitors from websites if they try to do harm like guessing a password in a short time period for multiple times. There are multiple 
+
+### Security theory
+
+Security consists of three main topic: availability, integrity and confidentiality (CIA-factors). Every topic needs to met requirements you have. Here are a few example:
+- Availability: you want your website to be available, so the uptime has to be like at least 99%.
+- Integrity: you want the information on your website to be right. If a visitor fills in a form every piece of filled information may not be changed during the whole processing.
+- Confidentiality: you want some information on your website be accessible only by certain people, like private posts or filled in forms.
+
+It's important to keep these three topics in mind all the time to minimize the security risks of your website. You can even consider things like performance as part of security as it has impact on the availability. The CIA-factors can also be used to make goals (like 'I want my website uptime be at least 99%').
+
+### Monitoring
+
+Monitoring actions on your website and server are also important. One of the things you can do is monitoring things like failed login attempts. You can use plugins for this. Another level of monitoring is at server level or website level. There are several monitoring tools to achieve this.
+
+### Principle of least privilege
+
+Every visitor of a WordPress website and every server can follow the principle of least privilege. This means that you only need to provide features that are needed. Every unnecesary feature, administrator account, or application on the sever adds a potential security risk. By keeping this principle continuously in mind you can make the whole system as secure as possible.
+
+### Response
+
+It's very important to respond to security incidents. You can follow the instructions at https://wordpress.org/support/article/faq-my-site-was-hacked/ if you suspect that your site was hacked.
+
 ### WordPress Automatic Updates
 
 WordPress has the ability to automatically apply security updates. This should be enabled in almost all cases. The exception is if files are not writeable, outside of `wp-content/uploads`, for security reasons. In this instance, an alternative, expedient, and, preferably, automatic update process should be made available. See [Configuring Automatic Background Updates  
