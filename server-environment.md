@@ -89,7 +89,7 @@ For data storage, WordPress uses systems compatible with MySQL.
 Officially recommended by WordPress are 
 
 * [MySQL](https://dev.mysql.com/downloads/mysql/) 8.0 / 5.7
-* [MariaDB](https://mariadb.org/) 10.6 / 10.5 / 10.4 / 10.3 / 10.2
+* [MariaDB](https://mariadb.org/) 10.6 / 10.5 / 10.4 / 10.3
 
 Other MySQL servers that are known to perform well are:
 
@@ -115,12 +115,13 @@ If you have an older version, you can activate the `Site Health` section install
 
 ## Changelog
 
-- 2022-05-13: Update for WordPress 6.0 and stable software versions; updated deprecated PHP versions and extensions.
+- 2022-06-06: [Delete MariaDB 10.2](https://core.trac.wordpress.org/ticket/55791)
+- 2022-05-13: Update for WordPress 6.0 and stable software versions; updated deprecated PHP versions and extensions
 - 2021-05-27: Fixing infoboxes
-- 2021-05-07: Updated versions and extensions. [PHP 7.3 bump based on Trac](https://meta.trac.wordpress.org/changeset/10960).
-- 2021-05-05: Updated the imagick (WP\_Image\_Editor) link.
-- 2021-05-05: Updated versions (webserver, PHP, SQL).
-- 2021-02-17: Changelog added.
-- 2020-11-23: Minor text changes and info-block.
-- 2020-07-16: Updated webserver versions and vendors. Updated PHP versions. Updated SQL versions and vendors. Added: How do I know which version I have?. Updated libsodium to sodium.
-- 2020-06-02: Published from Github.
+- 2021-05-07: Updated versions and extensions. [PHP 7.3 bump based on Trac](https://meta.trac.wordpress.org/changeset/10960)
+- 2021-05-05: Updated the imagick (WP\_Image\_Editor) link
+- 2021-05-05: Updated versions (webserver, PHP, SQL)
+- 2021-02-17: Changelog added
+- 2020-11-23: Minor text changes and info-block
+- 2020-07-16: Updated webserver versions and vendors. Updated PHP versions. Updated SQL versions and vendors. Added: How do I know which version I have?. Updated libsodium to sodium
+- 2020-06-02: Published from Github
