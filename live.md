@@ -2,11 +2,11 @@
 
 The WordPress Hosting Team promotes a series of live events focused on teaching elements promoted by the team and reaching all users.
 
-The main WordPress Hosting Live site will be at [meetup.com/wphosting](https://www.meetup.com/wphosting/), hosted at [Make Hosting](https://make.wordpress.org/hosting/) and in collaboration with the [Learn WordPress](https://learn.wordpress.org/) team. You can also find the streaming at [Youtube](https://www.youtube.com/channel/UCUHFMCXJxXHcfls9w6Hzt6A) and [Twitter](https://twitter.com/WPHostingTeam).
+The main WordPress Hosting Live site will be at [Meetup](https://www.meetup.com/learn-wordpress-online-workshops/), hosted at [Make Hosting](https://make.wordpress.org/hosting/) and in collaboration with the [Learn WordPress](https://learn.wordpress.org/) team. You can also find the streaming at [YouTube](https://www.youtube.com/channel/UCUHFMCXJxXHcfls9w6Hzt6A) and [Twitter](https://twitter.com/WPHostingTeam).
 
 ## What is it?
 
-The original idea of this project was to have streaming events in which a person directs the event as a host, and one or more people give a presentation on a particular topic. Afterwards, there would be a round of questions and answers. The initial platform for broadcasting will be Youtube live, although other systems may be considered.
+The original idea of this project was to have streaming events in which a person directs the event as a host, and one or more people give a presentation on a particular topic. Afterwards, there would be a round of questions and answers. The initial platform for broadcasting will be YouTube live, although other systems may be considered.
 
 Other alternative systems can be to have group conversations in Zoom mode in which everyone can participate more dynamically.
 
@@ -49,12 +49,13 @@ As with any WordPress event, there are a number of limitations that apply across
 
 If you have an idea for a talk proposal, you can contact us proposing a topic from:
 
-* [WordPress Hosting Meetup](https://www.meetup.com/wphosting/discussions/)
+* [WordPress Hosting Meetup](https://www.meetup.com/learn-wordpress-online-workshops/discussions/)
 * [Make Hosting](https://make.wordpress.org/hosting/)
-* [#hosting-community](https://wordpress.slack.com/archives/hosting-community/) channel on Slack.
+* [#hosting](https://wordpress.slack.com/archives/hosting/) channel on Slack.
 
-[info]If you’re interested in improving this handbook, check the [Github Handbook repo](https://github.com/WordPress/hosting-handbook/), or leave a message in the [#hosting-community channel](https://wordpress.slack.com/archives/hosting-community/) of the official [WordPress Slack](https://make.wordpress.org/chat/).[/info]
+[info]If you’re interested in improving this handbook, check the [Github Handbook repo](https://github.com/WordPress/hosting-handbook/), or leave a message in the [#hosting channel](https://wordpress.slack.com/archives/hosting/) of the official [WordPress Slack](https://make.wordpress.org/chat/).[/info]
 
 ## Changelog
 
+- 2023-10-04: Updated to comply with Learn WordPress Meetup.
 - 2021-03-24: First version.

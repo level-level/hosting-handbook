@@ -31,7 +31,25 @@ The tool can be run manually or through an automated system like Travis. To see 
 To use the Runner, the following is required:
 * A server / hosting (infrastructure) with the usual configuration you have.
 * A database where you can test (it will be created and destroyed several times)
-* NodeJS 14.x
+* NodeJS 20.x
+
+#### NodeJS installation
+
+If you are using Debian / Ubuntu, install or update NodeJS with this command:
+
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt -y install nodejs
+node -v
+```
+
+If you are using RHEL / CentOS, install or update NodeJS with this command:
+
+```
+curl -fsSL https://rpm.nodesource.com/setup_20.x | sudo -E bash -
+sudo yum install -y nodejs
+node -v
+```
 
 ### Installing the Runner
 
@@ -229,7 +247,7 @@ If you / your company want the test [results to appear on the WordPress.org page
 
 The first thing to do is [create a user on WordPress.org](https://login.wordpress.org/register). If your company is called *ExampleHostingCompany, Inc*, for example, call your user something like *examplehostingcompanybot*. Keep in mind that the associated email account should be checked frequently, as emails will arrive regarding the possible operation of the tests.
 
-Create [an issue on the test page](https://github.com/WordPress/phpunit-test-runner/issues/new) asking to include the bot in the results page as a *Test Reporter*, indicating the email account you used with that user.
+Create [an issue on the test page](https://github.com/WordPress/phpunit-test-runner/issues/new?assignees=&labels=test-reporter-request&projects=&template=test_reporter_request.md&title=%5BTest+Reporter%5D+) asking to include the bot in the results page as a *Test Reporter*, indicating the email account you used with that user.
 
 [tip]The avatar of this user must be your company's logo, and the name and URL must make clear which company it is./tip]
 
@@ -239,10 +257,12 @@ Once the user has been created in the system, you'll get an invitation to join v
 
 To get things reporting properly, place the username for the bot, along with the application password in the .env file, which will look something like this: `export WPT_REPORT_API_KEY='examplehostingcompanybot:ABCD 1234 abcd 4567 EFGH efgh'`.
 
-[info]If you’re interested in improving this handbook, check the [Github Handbook repo](https://github.com/WordPress/hosting-handbook/), or leave a message in the [#hosting-community channel](https://wordpress.slack.com/archives/hosting-community/) of the official [WordPress Slack](https://make.wordpress.org/chat/).[/info]
+[info]If you’re interested in improving this handbook, check the [Github Handbook repo](https://github.com/WordPress/hosting-handbook/), or leave a message in the [#hosting channel](https://wordpress.slack.com/archives/hosting/) of the official [WordPress Slack](https://make.wordpress.org/chat/).[/info]
 
 ## Changelog
 
+- 2024-04-06: Updated requirement NodeJS 20.x
+- 2023-08-16: Added requirement NodeJS 16.x
 - 2022-07-12: Added requirement NodeJS 14.x
 - 2021-05-27: Fixing infoboxes
 - 2021-02-17: Changelog added
