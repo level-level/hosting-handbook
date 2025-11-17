@@ -57,29 +57,37 @@ During each meeting, we try to create a post with a synopsis of what is chatted 
 
 There's always a need for more folks to join! If you're interested in helping out with taking notes, chat with one of the Team Reps for access to the team's [make site](https://make.wordpress.org/hosting/wp-admin/). Once you have access, you'll be able to start with templates of previous meeting notes.
 
-You can check out recommendations on style in this [Core Handbook page](https://make.wordpress.org/core/handbook/best-practices/post-comment-guidelines/). They don't all apply because it's a guide from Core — the biggest thing is to be careful not to accidentally representing WordPress.org or the team if it's not a WordPress.org or team decision, and to get peer review before posting.
+You can check out recommendations on style in this [Core Handbook page](https://make.wordpress.org/core/handbook/best-practices/post-comment-guidelines/). They don't all apply because it's a guide from Core — the biggest thing is to be careful not to accidentally represent WordPress.org or the team if it's not a WordPress.org or team decision, and to get peer review before posting.
 
 Feel free to ask in the main [#hosting](https://wordpress.slack.com/archives/hosting/) channel for review, or any of the Team Reps directly if you don't get a reply right away.
 
 ## Getting Started at Contributing
 
-If you've never been on the Hosting Team before and you want to contribute, a good time to start is on a Contributor Day. You can check to see if your nearest community has a Hosting team, and if not, you can always participate in the Contributor Days associated with WCAsia ([WordCamp Asia](https://asia.wordcamp.org/)), WCEU ([WordCamp Europe](https://europe.wordcamp.org/)) and WCUS ([WordCamp US](https://us.wordcamp.org/)).
+If you've never been on the Hosting Team before and you want to contribute, a good time to start is on a Contributor Day. You can check to see if your nearest community has a Hosting team, and if not, you can always participate in the Contributor Days associated with WCAsia ([WordCamp Asia](https://asia.wordcamp.org/)), WCEU ([WordCamp Europe](https://europe.wordcamp.org/)), and WCUS ([WordCamp US](https://us.wordcamp.org/)).
 
-Also, you can access the [#hosting](https://wordpress.slack.com/archives/hosting/) channel on Slack, check it and start participating. We always have something to do!
+Also, you can access the [#hosting](https://wordpress.slack.com/archives/hosting/) channel on Slack, check it, and start participating. The team always has something to do!
 
 ### Contributor Day Notes
 
 If you want to get an idea of what a contributor day with the hosting team might look like, take a look at some work notes from the team from previous contributor days!
 
+* [WordCamp US 2025 Contributor Day](https://make.wordpress.org/hosting/2025/09/02/wordcamp-us-2025-contributor-day-summary/)
+* [WordCamp Europe 2025 Contributor Day](https://make.wordpress.org/hosting/2025/06/05/wordcamp-europe-2025-contributor-day/)
+* [WordCamp Asia 2025 Contributor Day](https://make.wordpress.org/hosting/2025/02/25/wordcamp-asia-2025-contributor-day-summary/)
+* [WordCamp Malaysia 2024 Contributor Day](https://make.wordpress.org/hosting/2024/11/22/wordcamp-malaysia-2024-contributor-day-recap/)
+* [WordCamp Europe 2024 Contributor Day](https://make.wordpress.org/hosting/2024/05/01/wordcamp-europe-2024-contributor-day/)
+* [WordCamp Europe 2023 Contributor Day](https://make.wordpress.org/hosting/2023/04/26/wordcamp-europe-2023-contributor-day/)
+* [WordCamp US 2022 Contributor Day](https://make.wordpress.org/hosting/2022/09/11/wordcamp-us-2022-contributor-day-summary/) 
+* [WordCamp Europe 2022 Contributor Day](https://make.wordpress.org/hosting/2022/06/06/wordcamp-europe-2022-contributor-day-summary/)
+* [WordCamp Europe 2020 Contributor Day](https://docs.google.com/document/d/14BuRJRp7bS1dqj2Dezxawg9QMWOWrMmg1XXJPyLKOis/)
 * [WordCamp US 2019 Contributor Day](https://docs.google.com/document/d/1Mb_7ZVslbD4L_cmXqBuiaeOPd8CF7v2D3c3iCN572QY/)
-* [WordCamp EU 2020 Contributor Day](https://docs.google.com/document/d/14BuRJRp7bS1dqj2Dezxawg9QMWOWrMmg1XXJPyLKOis/)
-* [WordCamp EU 2022 Contributor Day](https://make.wordpress.org/hosting/2022/06/06/wordcamp-europe-2022-contributor-day-summary/)
+
 
 ## Related WordPress Teams
 
-If you are interested in the [Hosting Team](https://make.wordpress.org/hosting/), you may be interested on these other teams as well:
+If you are interested in the [Hosting Team](https://make.wordpress.org/hosting/), you may be interested in these other teams as well:
 
-* [Core](https://make.wordpress.org/core/): The core team makes WordPress. Whether you're a seasoned PHP, HTML, JavaScript or CSS developer or are just learning to code, we'd love to have you on board. You can write code, fix bugs, debate decisions, and help with development.
+* [Core](https://make.wordpress.org/core/): The core team makes WordPress. Whether you're a seasoned PHP, HTML, JavaScript, or CSS developer or are just learning to code, Core would love to have you on board. You can write code, fix bugs, debate decisions, and help with development.
 * [Core Performance](https://make.wordpress.org/performance/): The core performance team is dedicated to monitoring, enhancing, and promoting performance in WordPress core and its surrounding ecosystem.
 * [CLI](https://make.wordpress.org/cli/): WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
 * [Documentation](https://make.wordpress.org/docs/): Good documentation lets people help themselves when they get stuck. The docs team is responsible for creating documentation and is always on the look-out for writers. The blog has discussion around the team's current projects.
@@ -101,16 +109,6 @@ The following are ways that a volunteer currently can earn a hosting contributor
 * Actively participating in meetings regularly and giving feedback on things discussed.
 * Helping out at a contributor day
 
-If you've contributed and don't yet have a badge, apologies! [Visit the Hosting Contributor and ask for it](https://profiles.wordpress.org/associations/hosting-contributor/). Please feel free to ping any of the Team Reps for further questions.
+If you've contributed and don't yet have a badge, apologies! [Visit the Hosting Contributor page and submit a request](https://profiles.wordpress.org/associations/hosting-contributor/) with details on your contribution. Please feel free to ping any of the Team Reps on Slack with questions.
 
 [info]If you’re interested in improving this handbook, check the [Github Handbook repo](https://github.com/WordPress/hosting-handbook/), or leave a message in the [#hosting channel](https://wordpress.slack.com/archives/hosting/) of the official [WordPress Slack](https://make.wordpress.org/chat/).[/info]
-
-## Changelog
-
-- 2023-11-11: Update the Badges section.
-- 2023-02-17: Up-to-date. More related teams.
-- 2022-06-08: WordCamp Europe 2022 Contributor Day link.
-- 2022-06-02: Adding Github process.
-- 2021-05-27: Fixing infoboxes.
-- 2021-02-17: Changelog added.
-- 2020-06-02: Published from Github.

@@ -12,21 +12,36 @@ More Information about [Team Reps: the Title, Responsibilities...](https://make.
 
 ### Hosting Team Reps
 
-The Hosting Team (2024) is represented by:
+The Hosting Team (2025) is represented by:
 
 - [@crixu](https://profiles.wordpress.org/crixu/)
-- [@javiercasares](https://profiles.wordpress.org/javiercasares/)
+- [@zunaid321](https://profiles.wordpress.org/zunaid321/)
 
 ### Hosting Project Leads
 
 The Documentation projects (Hosting Handbook, and Advanced Administration Handbook) are lead by:
 
-- [@javiercasares](https://profiles.wordpress.org/javiercasares/): Hosting Handbook, Advanced Administration Handbook
-- [@crixu](https://profiles.wordpress.org/crixu/): Hosting Handbook
+- _Defaults to team reps/admins. The team collectively manages these projects_
 
 The PHPUnit Test projects (PHPUnit Test Runner, and PHPUnit Test Report) are lead by:
 
-- _nobody is leading those projects_
+- _Defaults to team reps/admins. The team collectively manages these projects_
+
+### Hosting Team Admins
+
+- [@zunaid321](https://profiles.wordpress.org/zunaid321/) (Team Rep 2025 - present)
+- [@jessibelle](https://profiles.wordpress.org/jessibelle/) (Team Rep 2023)
+- [@crixu](https://profiles.wordpress.org/crixu/) (Team Rep 2021-present)
+- [@amykamala](https://profiles.wordpress.org/amykamala/) (Team Rep 2019-2023)
+- [@chaion07](https://profiles.wordpress.org/chaion07/) (Team admin since 2021)
+
+#### Past Hosting Team Reps and Admins
+
+- [@javiercasares](https://profiles.wordpress.org/javiercasares/) (Team Rep 2021 - 2024)
+- [@jadonn](https://profiles.wordpress.org/jadonn/) (Team Rep 2018 - 2022)
+- [@pfefferle](https://profiles.wordpress.org/pfefferle/)
+- [@kirasong](https://profiles.wordpress.org/kirasong/) (Started the team in 2017, Team Rep 2017 - 2021)
+- [@danielbachhuber](https://profiles.wordpress.org/danielbachhuber/) (Started the team in 2017)
 
 ## Hosting Team Organization
 
@@ -117,6 +132,7 @@ A Project Lead is responsible for guiding and overseeing a specific project unde
   - Be on the [#wcus](https://wordpress.slack.com/archives/C087S65L2) Slack channel, _recommended_
 
 - **GitHub Teams**
+    _Note: Must be a member of the [GitHub WordPress Organization](https://github.com/orgs/WordPress/) to view._
   - [Hosting Team](https://github.com/orgs/WordPress/teams/hosting-team)
   - [Hosting Handbook Team](https://github.com/orgs/WordPress/teams/hosting-handbook-team)
   - [Hosting Documentation Team](https://github.com/orgs/WordPress/teams/hosting-documentation-team)
@@ -127,8 +143,3 @@ A Project Lead is responsible for guiding and overseeing a specific project unde
   - [Advanced Admin Handbook](https://github.com/WordPress/Advanced-administration-handbook) Github Repo
   - [WordPress PHPUnit test suite](https://github.com/WordPress/phpunit-test-runner) Github Repo (aka test-runner)
   - [WordPress PHPUnit test reporter](https://github.com/WordPress/phpunit-test-reporter) Github Repo (aka test-reporter)
-
-## Changelog
-
-- 2023-09-09: Slack recommendations, added project leads.
-- 2023-09-07: New page.

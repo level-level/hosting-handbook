@@ -10,9 +10,12 @@ This table shows the versions available (and security supported) at the time of 
 
 WordPress | PHP | MySQL | MariaDB | Launch date
 ---- | ---- | ---- | ---- | ----
-WordPress 6.5 | 8.1 - 8.3 | 8.0 - 8.3 | 10.4-10.6 + 10.11 + 11.0-11.3 | 2024-04-02
-WordPress 6.4 | 8.0 - 8.2 | 8.0 - 8.2 | 10.4-10.6 + 10.10-11.1 | 2023-11-07
-WordPress 6.3 | 8.0 - 8.2 | 5.7 - 8.1 | 10.4-10.6 + 10.9-11.0 | 2023-08-08
+WordPress 6.8 | 8.1 - 8.4 | 8.0 / 8.4 / 9.1 | 10.5 - 10.6 / 10.11 / 11.4 - 11.5 | 2025-04-15
+WordPress 6.7 | 8.1 - 8.4 | 8.0 / 8.4 / 9.1 | 10.5 - 10.6 / 10.11 / 11.4 - 11.5 | 2024-11-12
+WordPress 6.6 | 8.1 - 8.3 | 8.0 / 8.2 - 8.4 | 10.5 - 10.6 / 10.11 / 11.1 - 11.2 / 11.4 | 2024-07-16
+WordPress 6.5 | 8.1 - 8.3 | 8.0 - 8.3 | 10.4 - 10.6 / 10.11 / 11.0 - 11.3 | 2024-04-02
+WordPress 6.4 | 8.0 - 8.2 | 8.0 - 8.2 | 10.4 - 10.6 / 10.10 - 11.1 | 2023-11-07
+WordPress 6.3 | 8.0 - 8.2 | 5.7 - 8.1 | 10.4 - 10.6 / 10.9 - 11.0 | 2023-08-08
 WordPress 6.2 | 8.0 - 8.2 | 5.7 - 8.0 | 10.3 - 10.11 | 2023-03-28
 WordPress 6.1 | 7.4 - 8.1 | 5.7 - 8.0 | 10.3 - 10.6 | 2022-11-01
 WordPress 6.0 | 7.4 - 8.1 | 5.7 - 8.0 | 10.3 - 10.6 | 2022-05-24
@@ -46,6 +49,7 @@ This table gives you a snapshot of how WordPress has changed its minimum require
 
 WordPress | PHP | MySQL | MariaDB
 ---- | ---- | ---- | ----
+WordPress 6.6+ | 7.2.24+ | 5.5.5+ | 5.5.5+
 WordPress 6.5+ | 7.0+ | 5.5.5+ | 5.5.5+
 WordPress 6.3+ | 7.0+ | 5.0.15+ | 5.5+
 WordPress 5.2+ | 5.6.20+ | 5.0.15+ | 5.5+
@@ -54,16 +58,3 @@ WordPress 2.9+ | 4.3+ | 4.1.2+ |
 WordPress 2.5+ | 4.3+ | 4.0+ | 
 WordPress 2.1+ | 4.2+ | 4.0+ | 
 WordPress 2.0+ | 4.2+ | 3.23.23+ | 
-
-## Changelog
-
-- 2024-04-05: Updated to WordPress 6.5
-- 2023-11-11: Updated to WordPress 6.4
-- 2023-10-04: Updated to WordPress 6.4 (beta), and checked the MariaDB versions (and gaps)
-- 2023-08-09: Added [Server requirements](https://codex.wordpress.org/Template:Server_requirements)
-- 2023-08-09: Update for WordPress 6.3
-- 2023-04-03: Minor grammatical fixes
-- 2023-02-17: Updated with WordPress 6.2 beta information
-- 2022-11-16: Updated with WordPress 6.1 information; improved table visualization
-- 2022-06-06: [Delete MariaDB 10.2](https://core.trac.wordpress.org/ticket/55791)
-- 2022-06-02: Published from Github

@@ -35,14 +35,14 @@ Once a PR is submitted, it will require an approval process. By default, once it
 
 ### Tools
 
-To work on this project yo will need:
+To work on this project you will need:
 
 - A GitHub account
 - A text / Markdown editor
 
 ### Help
 
-If help is needed, please ask in the [#hosting](https://wordpress.slack.com/archives/hosting) channel or contact [@Crixu](https://profiles.wordpress.org/crixu/), [@JavierCasares](https://profiles.wordpress.org/javiercasares/).
+If help is needed, please ask in the [#hosting](https://wordpress.slack.com/archives/hosting) channel or contact a Hosting Team rep.
 
 ## Automated Hosting Tests
 
@@ -63,14 +63,14 @@ You can propose improvements or solve those available in both the PHPUnit test r
 
 ### Tools
 
-To work on this project yo will need:
+To work on this project you will need:
 
 - A GitHub account
 - A text / PHP editor
 
 ### Help
 
-If help is needed, please ask in the [#hosting](https://wordpress.slack.com/archives/hosting) channel or contact [@pfefferle](https://profiles.wordpress.org/pfefferle/).
+If help is needed, please ask in the [#hosting](https://wordpress.slack.com/archives/hosting) channel or contact a Hosting Team rep.
 
 ## Advanced Admin Handbook
 
@@ -88,19 +88,15 @@ _Those skills are not required, but help._
 
 Although we are still in a first step, if you know of other WordPress content that could be in this Handbook, please [open an issue](https://github.com/WordPress/Documentation-Issue-Tracker/issues) and discuss it with the Documentation team. Please use the label ["advanced administration"](https://github.com/WordPress/Documentation-Issue-Tracker/labels/advanced%20administration).
 
-If you want to help launch the Handbook as soon as possible, [please take an issue and work on it](https://github.com/zzap/WordPress-Advanced-administration-handbook/issues). You can comment on the site itself if you have any questions, suggestions or improvements.
+If you want to help launch the Handbook as soon as possible, [please take an issue and work on it](https://github.com/WordPress/Advanced-administration-handbook/issues). You can comment on the site itself if you have any questions, suggestions or improvements.
 
 ### Tools
 
-To work on this project yo will need:
+To work on this project you will need:
 
 - A GitHub account
 - A text / Markdown editor
 
 ### Help
 
-If help is needed, please ask in the [#docs](https://wordpress.slack.com/archives/docs), [#hosting](https://wordpress.slack.com/archives/hosting) channel or contact [@JavierCasares](https://profiles.wordpress.org/javiercasares/), [@lucp](https://profiles.wordpress.org/lucp/), [@milana_cap](https://profiles.wordpress.org/milana_cap/).
-
-## Changelog
-
-- 2023-09-07: First version, from the Contributor Day page.
+If help is needed, please ask in the [#docs](https://wordpress.slack.com/archives/docs), [#hosting](https://wordpress.slack.com/archives/hosting) channel or contact a Hosting Team rep.

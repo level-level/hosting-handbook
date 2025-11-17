@@ -41,6 +41,13 @@
     "parent": "get-involved",
     "order": 4
   },
+  "team-updates": {
+    "title": "Monthly Hosting Team Updates",
+    "slug": "team-updates",
+    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/team-updates.md",
+    "parent": "get-involved",
+    "order": 5
+  },
   "server-environment": {
     "title": "Server Environment",
     "slug": "server-environment",
@@ -90,11 +97,18 @@
     "parent": null,
     "order": 11
   },
+  "sustainability": {
+    "title": "Sustainability",
+    "slug": "sustainability",
+    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/sustainability.md",
+    "parent": null,
+    "order": 12
+  },
   "security": {
     "title": "Security",
     "slug": "security",
     "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/security.md",
     "parent": null,
-    "order": 12
+    "order": 13
   }
 }
